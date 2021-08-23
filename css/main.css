@@ -11,3 +11,7 @@ section.archived.articles > h1 {
 article p + a {
     color: yellow;
 }
+
+article p +a:hover{
+    color: orange;
+}

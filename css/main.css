@@ -1,0 +1,13 @@
+section.first.articles > h1 {
+
+    color: red;
+}
+
+section.archived.articles > h1 {
+
+    color: purple;
+}
+
+article p + a {
+    color: yellow;
+}
